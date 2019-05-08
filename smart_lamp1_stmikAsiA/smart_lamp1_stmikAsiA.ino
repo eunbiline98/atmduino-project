@@ -1,12 +1,12 @@
 #include <ESP8266WiFi.h>
 #include <ThingerESP8266.h>
 
-#define USERNAME "lamp_smart"
-#define DEVICE_ID "smart_lamp1"
-#define DEVICE_CREDENTIAL "NDBZj8AF3ixk"
+#define USERNAME "t"
+#define DEVICE_ID ""
+#define DEVICE_CREDENTIAL ""
 
-#define SSID "Pkm_asia"
-#define SSID_PASSWORD "sistemkomputer"
+#define SSID ""
+#define SSID_PASSWORD ""
 
 ThingerESP8266 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 
