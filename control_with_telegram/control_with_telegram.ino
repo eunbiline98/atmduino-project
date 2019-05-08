@@ -7,9 +7,9 @@
 //#include <WiFiClientSecure.h> 
 //#include <UniversalTelegramBot.h> // memasukan Library TelegramBot
 
-char ssid[] = "Pkm_asia"; 
-char password[] = "sistemkomputer";
-#define BOTtoken "872146786:AAFqUC58J3mU5eNv271lfjYEozV_dj_qdzQ"
+char ssid[] = " "; 
+char password[] = " ";
+#define BOTtoken "your token"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
