@@ -1,12 +1,12 @@
 #include <WiFi.h>
 #include <ThingerESP32.h>
 
-#define USERNAME "atmduino"
-#define DEVICE_ID "Esp32_trial"
-#define DEVICE_CREDENTIAL "GruAmtNTKkzd"
+#define USERNAME "sesuaikan nama username"
+#define DEVICE_ID "sesuaikan nama device id"
+#define DEVICE_CREDENTIAL "sesuaikan"
 
-#define SSID "Pkm_asia"
-#define SSID_PASSWORD "sistemkomputer"
+#define SSID "sesuaikan ssid"
+#define SSID_PASSWORD "sesuaikan ssid pass"
 
 // define your board pin here
 #define LED_PIN 15
