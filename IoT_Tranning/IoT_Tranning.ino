@@ -7,12 +7,12 @@ DHT dht(dht_dpin, DHTTYPE);
 #include <ESP8266WiFi.h>
 #include <ThingerESP8266.h>
 
-#define USERNAME "atmduino"
-#define DEVICE_ID "IoT_Tranning"
-#define DEVICE_CREDENTIAL "zi5pTaWVGoeH"
+#define USERNAME " "
+#define DEVICE_ID " "
+#define DEVICE_CREDENTIAL " "
 
-#define SSID "Pkm_asia"
-#define SSID_PASSWORD "sistemkomputer"
+#define SSID " "
+#define SSID_PASSWORD " "
 
 // thinger.io config
 ThingerESP8266 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
