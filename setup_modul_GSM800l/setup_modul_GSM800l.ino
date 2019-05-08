@@ -1,7 +1,7 @@
  
 #include <SoftwareSerial.h>
 SoftwareSerial SIM800L(2, 3); // RX | TX
-// CHubungkan TXD untuk Arduino pin 2 
+// Hubungkan TXD untuk Arduino pin 2 
 // Hubungkan RXD untuk Arduino pin 3
 char c = ' ';
 void setup() 
